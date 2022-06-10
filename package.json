@@ -9,9 +9,9 @@
     "author": "Rizka Nugraha",
     "license": "ISC",
     "dependencies": {
-      "@open-wa/wa-automate": "^2.0.26",
-      "moment-timezone": "^0.5.31",
-      "node-fetch": "^2.6.1"
+      "@open-wa/wa-automate": "^4.38.1",
+      "moment-timezone": "^0.5.34",
+      "node-fetch": "^3.2.6"
     }
   }
   
