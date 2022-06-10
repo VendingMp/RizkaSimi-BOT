@@ -11,7 +11,7 @@ const fetch = require("node-fetch");
     client.onMessage(async (msg) => {
       // console.log(msg);
       if (msg.body === "/start") {
-        client.sendText(msg.from, `Selamat datang di RizkaSimi-BOT
+        client.sendText(msg.from, `Selamat datang di Saito Saikyo Bot 
 Gunakan dengan bijak, baik, dan tidak spam :D
 
 BOT ini khusus SIM-SIMI CHAT tidak ada fitur lain.
@@ -19,7 +19,7 @@ BOT ini khusus SIM-SIMI CHAT tidak ada fitur lain.
 *NOTE :*
 dilarang memasukan BOT ini ke dalam grup!
 
-_by Rizka Nugraha_`);
+_by Kaito Saikyo_`);
         client;
       }
   
