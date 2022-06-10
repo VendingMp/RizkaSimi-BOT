@@ -25,7 +25,7 @@ _by Kaito Saikyo_`);
   
       if(msg.body == msg.body) {
           const simi = msg.body
-          await fetch(`https://simsumi.herokuapp.com/api?text=${simi}&lang=ina`)
+          await fetch(`https://api.simsimi.net/v2/?text=${simi}&lc=id`)
           .then((res) => {
               
               return res.json()
