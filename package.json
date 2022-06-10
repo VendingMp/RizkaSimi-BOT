@@ -1,12 +1,12 @@
 {
     "name": "simi-bot",
     "version": "1.0.0",
-    "description": "Whatsapp Bot - Simi bot by Rizka Nugraha",
+    "description": "Whatsapp Bot - Simi bot by Kaito Saikyo",
     "main": "index.js",
     "scripts": {
       "start": "node index.js"
     },
-    "author": "Rizka Nugraha",
+    "author": "Kaito Saikyo",
     "license": "ISC",
     "dependencies": {
       "@open-wa/wa-automate": "^4.38.1",
